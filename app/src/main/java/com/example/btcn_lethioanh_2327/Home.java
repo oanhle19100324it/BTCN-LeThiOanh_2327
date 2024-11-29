@@ -29,11 +29,11 @@ public class Home extends AppCompatActivity {
         greetingText.setText("Hello, Alex!");
         tasksTodayText.setText("You’ve got 5 tasks today 📅");
 
-        taskTitle1.setText("Design UI");
+        taskTitle1.setText("Đang tải tiến độ hoàn thành");
         //taskProgress1.setText("40%");
         progressBar1.setProgress(40);
 
-        taskTitle2.setText("Implement Backend");
+        taskTitle2.setText("Đang tải tiến độ hoàn thành");
         //taskProgress2.setText("22%");
         progressBar2.setProgress(22);
     }
